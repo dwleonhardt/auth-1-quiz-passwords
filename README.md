@@ -5,28 +5,28 @@
 
 > What is identification?
 
-<!-- Answer here -->
+<!-- Name/username/identifier for the user. -->
 
 > What is authentication?
 
-<!-- Answer here -->
+<!-- How the user proves that they are who they say they are. -->
 
 > What is authorization?
 
-<!-- Answer here -->
+<!-- When server checks for permissions. -->
 
 > What is your opinion on how identification and authentication are currently implemented in the industry?
 
-<!-- Answer here -->
+<!-- The guidelines need to be updated now that people are using computers to crack passwords instead of cracking them by hand -->
 
 > What is your password?
 
-<!-- Answer here -->
+<!-- password1 (this is actually my password)-->
 
 > If a customer asked for a set of rules for appropriate passwords, what advice would you give them?
 
-<!-- Answer here -->
+<!-- Make a sentence or passphrase. Don't worry about special characters unless you want them. -->
 
 > What advice would you give loved ones for their own passwords?
 
-<!-- Answer here -->
+<!-- Use a password manager -->
