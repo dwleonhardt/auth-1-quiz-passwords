@@ -3,6 +3,8 @@
 
 ### With your partner, in words both of you will understand 6 months from now, answer the following questions.
 
+#### David and GP
+
 > What is identification?
 
 <!-- Name/username/identifier for the user. -->
